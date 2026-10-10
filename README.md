@@ -217,16 +217,32 @@ Here are a few I remember:
 
 | Discovery | What made it matter |
 | --- | --- |
-| **Life lock / funky mana** | Particular Energy Shield, Telekinesis, and mana configurations could create apparent near-immunity. The exact values mattered more than the size of the number. |
-| **The mosquito counter** | We experimented with summoning Act III flying monsters to disrupt mana states that ordinary attacks couldn't break. |
+| **Life lock / Funky PI** | A 2005 discussion gave example setups around **1,572,873 mana with level 51 Telekinesis**, and **2,621,441 or 2,621,442 mana with Telekinesis at level 50, 70, or 99**. The point was finding specific mana and Energy Shield interactions, not just inflating stats. Those were players' test values, not universal recipes; other defenses, Prayer, and regeneration changed the result. |
+| **The summoned “sucker” counter** | A September 20, 2006 post by **PIB-Xenom666** described **127% chance to reanimate a “sucker” on kill**, with monster resistance and an all-resistance aura, then letting the summoned monster attack a Funky PI character. This matches the strange Act III flying-monster counter I remember experimenting with. Other players also debated zombies and Baal Crab mana burn. |
 | **Negative resist and absorb** | Some elemental setups could turn incoming attacks into healing, forcing opponents to abandon their usual damage sources. |
-| **Extreme stun and Thorns** | An old forum moderator described the trigger: **90% chance to cast level 10 Stun on attack and on hit**. That's how I remember the rapid stun attacks being set up. They could kill an opponent but also kill the attacker through reflected Thorns; lowering physical damage could be the answer. |
+| **Extreme Stun and Thorns** | **Neounk_BoT's December 17, 2006 setup** used **90% chance to cast level 10 Stun on attack** and **90% chance to cast level 10 Stun on hit**, with other attack/hit skills removed. The repeating triggers could drain an opponent's life quickly, but returned Thorns or attacker-takes-damage could kill the attacker too. Players immediately tested lower Smite damage and defensive values to manage the tradeoff. |
 | **Aura stacking** | Equipment changes and multiple aura sources produced unusual states that were not obvious from reading individual item properties. |
 | **Submerge / Emerge** | Modified monster skills could make a dueler extremely difficult to target while offensive effects continued. The mechanic was eventually banned in the remembered ladder rules. |
+
+These figures come from the old forum experiments. They weren't one perfect build that worked in every situation. In the threads, players disputed which mana values worked, whether a particular setup was genuinely immune, and whether a counter had actually succeeded. That back-and-forth was how discoveries developed.
+
+[2005 Funky PI testing](https://web.archive.org/web/20071011215530/http://jayofteror.com/index.php?showtopic=1372) · [2006 Stun trigger and Thorns discussion](https://web.archive.org/web/20071011/http://jayofteror.com/index.php?showtopic=15079) · [2006 summoned-monster counters](https://web.archive.org/web/20071011215449/http://jayofteror.com/index.php?showtopic=10321)
 
 For the individual experiments, numerical details, source distinctions, and related guides, see the **[full historical archive](Open_BattleNet_AMF_LadderHall_Personal_History_Archive.txt)**.
 
 ## Chapter V: What ended it
+
+### When the host could change the fight
+
+Another recovered discussion, **“CE Counters Posted Here,”** dates back to September 6, 2006. Players argued about defeating characters protected by Cheat Engine life locking. **XSinner_ObR** described trying older 1.09 setups, specific Smite damage and even Life Tap. **ains** questioned whether the supposedly defeated characters had frozen all the necessary memory addresses. Others disputed whether memory editing worked for hosts, joiners, or on Closed Battle.net at all.
+
+The disagreement mattered as much as the tricks themselves. **xRiCx_HoS** thanked Sinner for bringing forward counter strategies and pinned the thread. But by **November 2, 2006**, moderator **BlAzEn** was describing a different problem: a knowledgeable host could manipulate so much of a duel that people were losing confidence in public games. He wanted players to put the programs aside and get back to character-building and actual fights.
+
+Reading that alongside my memories of D2spirate makes the loss of trust feel less like something that only happened to me. We wanted a competition where your own discoveries met somebody else's. Once you couldn't be sure whether a host was changing the game underneath you, winning or losing meant less.
+
+[Read the archived Cheat Engine counter debate](https://web.archive.org/web/20071011/http://jayofteror.com/index.php?showtopic=10162).
+
+
 
 An unusually powerful character could survive an entire patch of challenges. It couldn't necessarily survive a breach of trust.
 
