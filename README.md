@@ -170,6 +170,14 @@ The clone download forum itself was full of names from that arms race: **WarGod*
 
 [See the archived character clone forum](https://web.archive.org/web/20071011212310/http://jayofteror.com/index.php?showforum=290).
 
+### Who should get to know?
+
+One old forum listing stopped me in my tracks: a public poll called **“Life Lock! Should we release it to public?”** By September 30, 2007, it showed **143 replies and 2,799 views**. That was a long conversation about whether one of the game's powerful defensive discoveries should be shared with everybody.
+
+I haven't recovered the full discussion yet, but even its title says something about the world we lived in. A discovery could take months of testing. Keeping it private protected the work and the advantage it gave you. Releasing it meant other people could study it, counter it, and perhaps discover something better. Those decisions could affect the entire ladder.
+
+We didn't just compete over characters. We competed over knowledge, and sometimes argued about who should have it.
+
 ## Chapter IV: When the rules broke
 
 The most interesting discoveries weren't always about dealing more damage. Sometimes they meant doing less damage, changing a number by one, or making an opponent's greatest strength become a weakness.
