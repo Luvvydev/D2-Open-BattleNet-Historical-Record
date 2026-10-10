@@ -161,6 +161,14 @@ It was the people and the discoveries.
 
 And for a while, we had a whole world built around both.
 
+Looking back, I don't think that world could have happened at just any point in gaming history. Diablo II gave us the freedom to experiment, and the internet of that time gave our discoveries room to stay secret, our rivalries room to grow, and a handful of forums enough importance to feel like a world of their own.
+
+We weren't simply playing a game that would one day change. We were part of a community that could only have emerged under those particular circumstances.
+
+When the people left, the forums disappeared, and the internet changed, that world went with them.
+
+**The game survived. The world we built around it largely didn't.**
+
 ---
 
 ## Images from the old games
