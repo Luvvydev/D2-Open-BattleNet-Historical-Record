@@ -1,0 +1,43 @@
+name: Publish Beyond the Realm
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Beyond_the_Realm_Major_Overhaul.zip'
+      - '.github/workflows/pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Unpack website
+        run: |
+          mkdir -p _site
+          unzip -q Beyond_the_Realm_Major_Overhaul.zip -d temp-site
+          cp -R temp-site/Beyond_the_Realm/. _site/
+          touch _site/.nojekyll
+          test -f _site/index.html
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
