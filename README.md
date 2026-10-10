@@ -194,6 +194,13 @@ They didn't agree on everything. That's what makes the conversation worth preser
 
 [Read the original Funki PI counter discussion](https://web.archive.org/web/20071011/http://jayofteror.com/index.php?showtopic=10321).
 
+And then I found a reply from **PIB-Xenom666**, dated **September 20, 2006**, that stopped me. He described putting a chance to raise a monster on a charm, killing ordinary monsters until a **“sucker”** was summoned, and letting it attack the Funky PI character. He said the setup used monster resistance, a resistance aura, and a 127% reanimation chance. That is remarkably close to the summoned monster counter I remember experimenting with. The exact monster name and the practical idea are there, written by somebody else almost twenty years ago.
+
+I can't tell from that post who first discovered it, and it wasn't presented as a claim of authorship. What matters to me is finding the same strange solution being discussed by another player, back when all of us were still trying to break these builds.
+
+[Read PIB-Xenom666's archived September 2006 reply](https://web.archive.org/web/20071011215449/http://jayofteror.com/index.php?showtopic=10321).
+
+
 ### Who should get to know?
 
 One old forum listing stopped me in my tracks: a public poll called **“Life Lock! Should we release it to public?”** By September 30, 2007, it showed **143 replies and 2,799 views**. That was a long conversation about whether one of the game's powerful defensive discoveries should be shared with everybody.
