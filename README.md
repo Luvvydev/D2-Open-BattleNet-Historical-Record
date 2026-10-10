@@ -36,6 +36,22 @@ We had our own ranked ladders, referees, forums, clans, arguments, and legends. 
 
 What made it hard to recreate was the combination. Easy character editing gave almost anyone a way in, but the hidden mechanics gave serious experimenters years of problems to solve. Public ladders made discoveries count. Private research gave clans something to protect. Forums gave victories witnesses and reputations long memories. Modern games have modding communities, competitive ladders, and theorycrafting, but rarely all of these together in one small player-run ecosystem. That's my explanation for why I've never found the same experience again.
 
+### The game beneath the game
+
+Imagine arriving on Open Battle.net for the first time. You open Hero Editor, give yourself impossible statistics, and assume you've made something unbeatable. Then you enter a duel against someone whose character looks weaker than yours, and you die almost instantly.
+
+That was where the real game began.
+
+You went back to the editor and tried to understand what had happened. You changed one value, tested it, read an argument on a forum, tested again. Eventually you found the weakness, built a counter, and returned. Maybe you won. Then someone else found an answer to *your* character. The cycle could continue for years.
+
+Sometimes the answer was almost ridiculous. More damage could heal your opponent. A single point of mana could change a defensive calculation. A seemingly harmless summoned monster could defeat a character that had survived everything else. Those weren't arbitrary puzzles. They came from the way Diablo II actually worked, hidden underneath what the game showed you.
+
+**The visible game was Diablo II. The hidden game was understanding Diablo II better than everybody else.**
+
+And discoveries didn't stay inside the game. They changed your reputation, your rivals, the clans that wanted you, and sometimes even the ladder rules. A small group could keep a breakthrough secret for months. A public forum post could give everyone a new problem to solve overnight. There were friendships, grudges, arguments, loyalty, espionage, and people who genuinely loved figuring things out together.
+
+That is the part of those years I have never managed to find again. We weren't just trying to master a finished game. We were competing to discover what else was possible.
+
 ## Chapter I: HU_Thor
 
 Before AMF, I was **HU_Thor**, founder of **Hackers United (HU)**.
