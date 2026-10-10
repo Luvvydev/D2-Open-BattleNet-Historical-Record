@@ -1,309 +1,303 @@
 BEYOND THE REALM
-A PERSONAL HISTORY AND EVIDENCE ARCHIVE OF DIABLO II OPEN BATTLE.NET
+THE LONGER HISTORY OF DIABLO II OPEN BATTLE.NET
 HU_THOR / AZREAL]AMF[  |  LADDERHALL  |  CLAN AMF
-Compiled October 9, 2026
+First compiled October 9, 2026
 ==========================================================================
 
-A keepsake assembled from an extended firsthand conversation, surviving
-personal files, a contemporary AMF clan history, email screenshots,
-character-save exports, public forum archives, and outside technical guides.
+This is the longer version of my story. The README tells it in a few
+chapters; this file keeps the details: how the dueling ladders worked,
+what we actually tested, who taught me things, and what survived from
+those years.
 
-This is a record of a particular community and one person's experience in
-it, not an independent certification of every historical match or a claim
-that one clan invented every technique it used.
+I was HU_Thor before I became Azreal]AMF[. I'm writing about roughly
+2003 to 2008, from memory and from old characters, emails, screenshots,
+clan writing, and public technical guides. A surviving screenshot can
+show what happened on screen, but not every condition of a ranked match.
+A clan record can tell us what AMF claimed at the time without being
+an independent ladder export. I won't pretend those are the same thing.
 
-CONTENTS
-  01. What this world was
-  02. Evidence standards and source inventory
-  03. The person behind HU_Thor and Azreal]AMF[
-  04. LadderHall: a community made by its players
-  05. AMF: founding, membership, and government
-  06. The HU versus AMF war
-  07. Friendship, rivalry, apprenticeship, and trust
-  08. The discoveries: a reconstructed technical history
-  09. The mathematics that survived outside AMF
-  10. The character files and documentary artifacts
-  11. D2spirate, refereeing, and the decline of trust
-  12. Why this experience felt like magic
-  13. What it would take to recreate it
-  14. Lessons and unresolved questions
-  15. Direct links to the surviving historical record
-  16. Local artifact manifest and preservation advice
+HOW TO READ THIS FILE
+
+  01. How Open Battle.net actually worked
+  02. What evidence survives and what doesn't
+  03. HU_Thor and becoming Azreal]AMF[
+  04. LadderHall, its rules, and its reputation economy
+  05. AMF and the research we kept private
+  06. HU versus AMF
+  07. Adeem, Jorden, and the other people
+  08. The mechanics we experimented with
+  09. Surviving public mathematical guides
+  10. The original character files and other evidence
+  11. D2spirate and the breakdown of trust
+  12. What made this world different
+  13. Why a replacement is difficult
+  14. What is still unknown
+  15. Links to old pages and discussions
+  16. Preservation notes and file checksums
+
+Evidence shorthand in technical sections:
+  [D] A surviving document or file says or shows this.
+  [R] My recollection of something I experienced.
+  [T] A historical guide author's published explanation.
+  [I] An interpretation or plausible explanation, not a fact
+      independently established by a saved match or engine test.
+
+These are source descriptions, not grades of honesty. Most importantly,
+the numerical explanations in the old guides are historical reports.
+I have not independently reproduced them against the original engine.
 
 --------------------------------------------------------------------------
 01. WHAT THIS WORLD WAS
 --------------------------------------------------------------------------
 
-Diablo II had a conventional game, and then there was a highly unusual
-parallel activity: Open Battle.net dueling using locally stored, modified
-characters. Players could use a friendly graphical editor, commonly called
-Hero Editor, to change stats, skills, equipment, sockets, and complex item
-properties. They then brought their creations into multiplayer games with
-others who were playing the same way.
+Diablo II Open Battle.net was unlike Closed Battle.net because the
+character file lived on your own machine. Hero Editor made it possible
+to edit equipment, charms, sockets, skills, auras, and values far past
+anything a normal character could obtain. Then you could bring that
+edited character into a multiplayer game against other edited builds.
 
-The crucial invention was not a single editor, exploit, or ladder. It was
-an ecosystem. A player could EDIT a character, TEST it against another
-inventor, discover a previously unknown interaction, DUEL publicly,
-challenge a famous opponent, acquire a REPUTATION, and return to the forum
-with results. Private clans exchanged exact experiments and character
-saves. Flame forums recorded public humiliations and rivalries. Officials
-kept ladders and appointed referees. A small enough community could know
-its best players by name, yet the underlying mathematical possibilities
-still seemed unexplored.
+This sounds like a competition to enter the largest number. It wasn't.
+Damage could overflow or be reduced unexpectedly. One aura could make
+another build stronger rather than weaker. The exact value of mana
+could matter more than having millions of it. Even who joined a game
+first could change the result.
 
-In the participant's own assessment, the ladder's deepest purpose was not
-mechanical execution. It was testing who could continually advance the
-community's understanding of Diablo II. The character in a duel was an
-expression of knowledge.
+What happened outside matches mattered just as much. We experimented,
+tested single values, compared outcomes, and tried to infer how the game
+calculated things. A duel against a strong player might be a real
+challenge, or it might be a test to learn how their defenses worked.
+A failed attack could reveal a vulnerability. An alternate identity
+could help conceal what you were investigating.
 
-That distinction is the interpretive heart of this archive.
+LadderHall gave those discoveries somewhere to matter. The ladders,
+referees, forums, clan challenges, screenshots, and reputations made
+a small experimental community feel like a competitive world. One
+new counter could invalidate what everyone thought was unbeatable.
+
+To me, the main competition wasn't execution. It was understanding
+the game better than whoever was standing across from you.
 
 --------------------------------------------------------------------------
 02. EVIDENCE STANDARDS AND SOURCE INVENTORY
 --------------------------------------------------------------------------
 
-Evidence labels used throughout:
+This is a personal history, not a reconstructed official tournament
+database. I have tried to keep those two things separate.
 
-[D] DOCUMENTED: a surviving contemporary personal file, dated message,
-    or public historical page actually contains the stated information.
-[R] RECOLLECTION: a participant's detailed firsthand account, not wholly
-    independently verified by the surviving material.
-[T] TECHNICAL GUIDE: a historical forum author's published explanation.
-    It documents what that researcher reported, not universal engine truth.
-[I] INTERPRETATION: a reasoned reconstruction, possibility, or lesson.
+There are several kinds of material behind it.
 
-These labels are not assessments of honesty. A vivid recollection can be
-accurate without surviving independent evidence, and a historical forum
-guide can contain technical mistakes. Dates of publication should not be
-confused with dates of original discovery.
+The most direct surviving records include an AMF clan history from
+December 2006, old emails with attachments, character saves and
+character exports, archived forum pages, and actual duel screenshots.
+The AMF document records a seven-of-seven 1.11 ladder #1 claim under
+my Azreal]AMF[ name. That tells us the clan was making the claim in
+2006. We do not have seven separately recovered official ladder pages
+to check every result.
 
-Principal personal evidence represented in this archive:
-[D] A copied AMF clan history, government description, founding account,
-    membership roster, and ranking claims sent by founder Thanatos on
-    December 27, 2006 (described by the participant as clan amf.rtf).
-[D] A July 3, 2007 outgoing email to 'hunterhimself', subject 'chars',
-    with Hexon_FF.d2s and Hexon_iN.d2s attached.
-[D] An earlier July 26, 2007 email sending HackersUnited.d2s to Thanatos,
-    including a warning not to bring the build into public games.
-[D] Surviving binary saves for Hexon_FF, Hexon_iN, HackersUnited,
-    plus archived characters and screenshots provided by the participant.
-[D] Screenshots of old duel outcomes and NightShiver/LadderHall's visual
-    layout, including black forum panels, textured headers and sidebars.
-[D] The public 2010 House of Legends technical reference topics.
-[D] Archived AMF InvisionFree pages and old Reddit veteran discussions.
-[R] The detailed narratives of HU's campaign, official duels, secret
-    counters, discoveries, disputes, and friendships as told in 2026.
+Emails from 2007 and 2008 establish that complete builds were shared
+between players and help date those relationships. The saved .d2s
+files show exact character data. They do not, by themselves, identify
+the first inventor of a mechanic or prove a particular duel outcome.
 
-A public archive need not expose personal email addresses, private reset
-tokens, real-life photographs, or original messages containing personal
-information. This keepsake intentionally does not reproduce those.
+The surviving 2010 House of Legends guides are useful because they
+describe the same class of strange mana, damage, regeneration, and
+skill interactions I remember. They are later publications by their
+own authors, not evidence that AMF invented every technique.
+
+Finally there are my memories: the clan war, tests, friends, spying,
+referees, and discoveries. I remember some much more clearly than
+others. Where there's a disagreement between memory and a written
+record, I say so rather than picking a version that sounds better.
+
+For preservation, I have left private email addresses, reset tokens,
+and unrelated personal details out of this public account.
 
 --------------------------------------------------------------------------
 03. THE PERSON BEHIND HU_THOR AND AZREAL]AMF[
 --------------------------------------------------------------------------
 
-[R] The user first built an identity around HU_Thor, associated with
-Hackers United (HU), using an Open Battle.net channel such as '/j op HU1'.
-HU challenged the recognized elite because defeating them was how a
-teenager could become visible. Screenshots posted to LadderHall's flame
-forums could make a reputation almost overnight. This was a 'win at any
-cost' period; the participant now distinguishes ingenuity from fairness.
+Before I was in AMF I was HU_Thor, founder of Hackers United, or HU.
+We had our own channel, remembered as /j op HU1, and a reputation
+to build. I wanted to challenge the people everyone already knew.
 
-[R] After competing against AMF, the participant joined as Azreal]AMF[.
-The public clan hierarchy he had once viewed from the outside became a
-small private circle of people sharing calculations, discoveries, and
-complete character builds. His attention shifted from demonstrating that
-HU could beat AMF to helping AMF remain at the top.
+A victory against an established name could become a screenshot,
+a forum post, and an argument that kept going long after the duel.
+The flame forums were rough. Winning mattered, but so did making sure
+people had seen the win.
 
-[D] The AMF founder's contemporary document includes:
-    'Member: Azreal]AMF['
-    '1.11 #1 on 7 of 7 ladders'
-This proves that AMF was recording and claiming this record at the time;
-it is not, by itself, seven independent official ranking-table exports.
+AMF was the clan I especially wanted to challenge. I saw their
+members as the people with the deepest builds and most closely guarded
+knowledge. Public clashes, technical experiments, and the HU versus
+AMF rivalry eventually led to my joining them.
 
-[R] The player also recalls several years of leading ladders across
-patches and building secret alternate accounts. Those undercover duels
-were used to learn rival constructions without revealing what was being
-tested. This is testimony rather than an independently audited match log.
+I became Azreal]AMF[. That wasn't merely a tag change. I went from
+trying to defeat people whose discoveries I couldn't see to discussing
+those discoveries with them. We traded builds and worked out
+interactions in private.
+
+A 2006 AMF history credits Azreal with #1 in all seven 1.11 ladder
+categories. That's a contemporary clan record, not a surviving full
+set of official standings. I also remember leading ladders over
+multiple years and using alternate accounts to investigate rivals.
+I cannot independently reconstruct every match today.
 
 --------------------------------------------------------------------------
 04. LADDERHALL: A COMMUNITY MADE BY ITS PLAYERS
 --------------------------------------------------------------------------
 
-[R] LadderHall offered ranked challenges, ladder tables, declared rules,
-and official referees. A normal formal match had a host/referee, a second
-joiner, and a third joiner. Join position could itself change aura or
-damage behavior; opponents would exchange positions across multiple
-rounds to test both advantages. Winning from the worse position could be
-more impressive than merely taking a match from the better one.
+LadderHall was player-run competition for modified characters.
+Challenges had rules, ranked positions, and referees. A formal duel
+could involve a host/referee and two players joining in sequence.
+The join order mattered enough that competitors sometimes changed
+positions across rounds.
 
-[T] The House of Legends guides separately describe join-order effects,
-including aura activation and particular damage/absorption behavior.
-That supports the existence of the technical concern, not every detail
-of every recalled LadderHall rule.
+That sounds absurd if you think of Diablo II as only a combat game.
+For us it was a mechanical variable. Aura and damage behavior could
+differ depending on when a character entered the game. Testing a
+build in only one position could give you the wrong answer about
+which build was stronger.
 
-[R] A discovery was normally eligible to be used competitively until a
-rule banned it. Finding a new interaction could enable a #1 run before
-the community understood its counter. The ladder's rules therefore
-changed as knowledge advanced. Exact mana values associated with 'life
-lock' and the later Submerge mechanic were prohibited when considered
-incompatible with meaningful dueling.
+Rules also evolved around discoveries. An interaction was not
+automatically forbidden simply because nobody had seen it before.
+Something powerful could be used until it was understood, countered,
+or eventually prohibited. I remember life-lock values and later
+Submerge/Emerge becoming banned issues.
 
-[R] Flame forums were where private rivalry became public theater. HU
-versus AMF screenshots, taunts, clan reputation, spectacular wins, and
-arguments all magnified the stakes. Elite names became legends not just
-because they won, but because other players suspected they possessed
-unique and tightly guarded mathematical discoveries.
+The forums were the other half of LadderHall. Screenshots, mockery,
+clan wars, challenges, and debates built reputations. The community
+was small enough that we knew the names, but its mechanics were deep
+enough that we still had things to discover.
 
-[D] A surviving NightShiver/LadderHall screenshot supplied in the
-conversation shows the forum's near-black posts, gray textured forum
-headers, sidebar list of online users, small portraits, and compact
-posting metadata. A Reddit thread from 2024 preserves further veterans'
-memories and discussion of the scene (link in section 15).
+There is a gap in the surviving record: we have references and old
+forum images, but not a complete verified export of all rules and
+ladder standings for every patch.
 
 --------------------------------------------------------------------------
 05. AMF: FOUNDING, MEMBERSHIP, AND GOVERNMENT
 --------------------------------------------------------------------------
 
-[D] The founder's 2006 account calls the clan 'Alpha Mother Fvckers'. It
-traces its founders to an earlier clan called FBI. Thanatos, GodsWrath,
-and Murderin reportedly agreed to form AMF during an MSN conversation.
-GodsWrath became LouSahFur]AMF[. It presents AMF as arrogant and
-confrontational in public, proud of elite skill, and extremely selective
-in recruitment.
+AMF stood for Alpha Mother Fuckers. It was selective, small, and
+competitive. The preserved founding account names Thanatos,
+Murderin, and GodsWrath, later known as LouSahFur, among the
+founders. They had connections to an earlier clan called FBI.
 
-[D] The written governmental rules are unusually clear:
-    * Prefer no more than FIVE ACTIVE members.
-    * Recruit for exceptional skill AND activity.
-    * Minimize internal politics and drama.
-    * No formal leaders, ranks, or titles; everyone equal on paper.
-    * Members vote on prospective recruits.
+The written rules said to aim for no more than five active members,
+recruit for both exceptional skill and activity, vote on candidates,
+avoid internal drama, and have no formal ranks or leaders. Its longer
+historical roster contains more than five names, which is compatible
+with a limit on active members rather than total membership.
 
-[D] The founding-history section discusses Dstruct, Spidey, retirements,
-and the founders' later 'Triad of Terror' period. The membership list
-also includes JayOfTeRoR, Azreal, and TermiNATE. The long-lived roster
-is larger than the stated goal of five active members; these are not
-necessarily contradictory because the rule concerns active membership.
+The document also discusses Dstruct, Spidey, JayOfTeRoR,
+TermiNATE, and earlier generations of members. It gives AMF
+substantial ladder claims across versions 1.09, 1.10, and 1.11.
+Those are the clan's historical claims, not independently audited
+standings.
 
-[D] Among the clan's self-reported historical ranks, the document credits
-Thanatos and Murderin with #1 in six of seven 1.09/1.10 categories and
-Azreal with #1 across seven of seven 1.11 ladders. It also claims AMF
-was the second clan to secure seven simultaneous #1 positions.
+What I remember most is the research. There was an InvisionFree
+forum for calculations, experiments, and debates about mechanics.
+Members shared complete characters through email, MSN, and later
+Skype. This wasn't just swapping equipment lists. A whole saved
+character could expose months of tests and the exact combinations
+that made a build work.
 
-[R] The participant recalls that AMF's InvisionFree forums contained a
-substantial INTERNAL MATHEMATICAL LIBRARY: long posts with calculations,
-experiments, explanations, and debates. Finished character saves were
-circulated more privately via email, MSN, and later Skype. This is more
-sophisticated than a clan that merely swaps optimized characters.
+AMF's trust mattered because of that secrecy. As far as I know,
+no one inside the group betrayed our research before people retired.
+That is my recollection, not proof that the wider dueling scene was
+free of cheating or theft.
 
-[I] AMF combined three mutually reinforcing sources of status: elite
-players, new technical discoveries, and the social prestige of admission.
-But equal voting on paper could coexist with informal founder influence.
-Clannish secrecy protected research while leaving that research at risk
-when forums and personal hard drives disappeared.
-
-[D/R] A caveat in the surviving founding prose: it says AMF had 'never
-been in an official clan war' as of the document's wording, whereas the
-participant describes a HU versus AMF war used to press for recruitment.
-These statements may reflect timing, the definition of 'official', or
-a mismatch in recollection. They must not be silently reconciled.
+One source conflict deserves mentioning. AMF's founding prose says
+it had never been in an official clan war at the time of that writing.
+I remember the HU versus AMF conflict. The difference might be the
+date, what counted as official, or imperfect memory. I don't know.
 
 --------------------------------------------------------------------------
 06. THE HU VERSUS AMF WAR
 --------------------------------------------------------------------------
 
-[R] HU_Thor wanted AMF's attention and respect. The strategy was to
-publicly challenge clan members and post victory screenshots to the
-forums. During this period he collaborated with his friend Zak, also
-known as STORMY], who had become an official ladder referee.
+As HU_Thor, getting AMF's attention was part of the goal. I challenged
+members, posted screenshots, and tried to find something that could
+break the builds they were known for.
 
-[R] The two found a lethal interaction using a Necromancer curse believed
-to be Life Tap. A cursed target could be hit by a top ladder character
-using Smite; Life Tap's life-gain effect, together with the opponent's
-extraordinary healing and Prayer configuration, appeared to cause the
-opponent to die from a healing-related glitch. The opponent usually took
-some time to die, but much less than a conventional high-end duel.
-Ordinary characters without top-ladder healing properties did not show
-the same vulnerability in the reported tests.
+My friend Zak, STORMY], was an official referee. Together we
+experimented with a strange interaction involving Life Tap, Smite,
+and the extreme healing configurations used by high-level edited
+characters. In the tests I remember, applying the curse and then
+hitting certain targets could produce a delayed death that looked
+connected to their own healing. Ordinary builds did not react the
+same way.
 
-[T] The 2010 'Life Values & Regeneration' guide independently discusses
-lethal OVERHEALING on oversized modified characters. It does NOT
-document this particular HU / Zak Life Tap scenario or establish its
-underlying arithmetic.
+A later House of Legends guide discusses overhealing deaths on huge
+modified life values, so the general class of problem was real
+enough to have been written about. That guide does not verify the
+specific HU test or establish its exact calculation.
 
-[R] The participant candidly acknowledges that secretly having a
-referee influence an official duel was not a fair head-to-head test of
-independent character strength. The historical importance here is both
-technical and social: the discovery reflected the culture's ingenuity,
-and the episode shows how far competitive ambition sometimes went.
+There is an uncomfortable part to the story. Having a friendly
+referee secretly affect an official duel was not a fair match.
+I was trying to win and establish a reputation, and I crossed
+that boundary. It shows the darker side of the same culture that
+rewarded clever research.
 
-[I] The war, public screenshots, and eventual admission illustrate the
-same community simultaneously rewarding inventiveness, reputation, and
-sometimes morally questionable competitive tactics.
+The rivalry eventually opened the door to joining AMF, but I
+wouldn't describe those early matches as a clean scientific record.
+There was ego, tactical concealment, public flaming, and sometimes
+people manipulating circumstances.
 
 --------------------------------------------------------------------------
 07. FRIENDSHIP, RIVALRY, APPRENTICESHIP, AND TRUST
 --------------------------------------------------------------------------
 
 ADEEM / CRUCIFY]AMF[
-[R] Once a mentor, Adeem became a bitter rival. He is credited by the
-participant with pioneering the extreme negative-elemental-resistance
-plus absorb configuration in which conventional elemental aura attacks
-could HEAL the target. The participant answered by removing damaging
-elemental auras and emphasizing Smite and Thorns in a duel that required
-the two characters to stand and exchange attacks. That removed a benefit
-his opponent had relied upon.
 
-[R] Adeem also explored extraordinary one-hit damage achieved by packing
-very large numbers of gems into modified socket systems. The final
-obstacle was needing ONE MORE GEM than a normal character inventory could
-hold. He posed this as a puzzle for the participant. While absentmindedly
-moving an ear-like item around with a full inventory, the participant
-realized the extra object could be left on the mouse cursor across a
-save/exit and re-entry. The cursor was effectively one additional item
-slot. He excitedly shared the solution; Adeem acknowledged it and gave
-him the character. The memory of that instant has remained emotionally
-important nearly twenty years later.
+Adeem was both a teacher and later a rival. He understood mechanics
+I had not seen before. One of his builds used enormous negative
+elemental resistance and absorb so that attacks expected to hurt
+could instead heal him. I remember countering that by removing the
+elemental auras and making it a physical fight involving Thorns.
 
-[I] This story captures the culture's defining mental move: stop
-assuming the inventory grid defines the entire available state space.
-The overlooked mouse cursor became part of the solution.
+The memory I value most is his puzzle about an extra gem. He had a
+one-hit aura-killing build that required one more gem than the normal
+inventory seemed able to carry. Importantly, he ALREADY KNEW the
+answer. He gave me the problem because he wanted me to learn it
+rather than simply tell me what to do.
 
-[R] Their rivalry sometimes turned ugly. The participant now wishes he
-could apologize for competitive flaming while still giving Adeem full
-credit for his original discoveries. Years later they briefly reconnected
-through Facebook and discussed playing League of Legends, but distance
-and region/ping made playing together difficult.
+While moving another player's ear around a full inventory of charms,
+I realized the cursor itself could hold an item. That item could
+remain there through saving, leaving, and rejoining. The cursor
+was one more place to carry something.
+
+When I reported the solution, Adeem knew I had reached the answer
+he'd been guiding me to find. He gave me the character. I did not
+solve a mystery he was stuck on. The point was him teaching me to
+recognize possibilities outside the obvious limits of the interface.
+
+Our rivalry later became ugly at times. I regret some of the things
+I said in those arguments. His role as a mentor is more important
+to me now than whatever we said in a flame thread. We reconnected
+briefly years later but did not rebuild the old friendship.
 
 JORDEN / HADES]AMF[
-[R] A highly promising younger dueler became a close research partner.
-Jorden investigated aura stacking through rapid equipment changes,
-notably Oak Sage plus Prayer; sometimes automation/scripts helped produce
-many state changes. The participant supported an exception to AMF's
-usual expectation that recruits already be #1 and arranged for Jorden's
-ideas to be evaluated against extremely strong characters. Jorden
-reportedly demonstrated their power and later reached #1 himself.
 
-[R] The participant saw Jorden's achievement as a shared accomplishment,
-not a threat. He recalls constant conversations about mathematical
-interactions and experimentation. They later lost contact.
+Jorden researched aura stacking, including rapid equipment changes
+that combined Oak Sage and Prayer in unusual ways. I supported
+letting him demonstrate his ideas even though he did not meet the
+usual expectation that an AMF candidate already held #1.
 
-THANATOS / MURDERIN / LOU SAH FUR
-[D] The historical clan account identifies the founding trio and their
-central competitive status. Email screenshots in the participant's
-collection show personal contact and exchanges of character saves.
-[R] Thanatos became a real friend. On March 14, 2008 he sent a group of
-older characters: DeathRose.d2s, AsHeN_RoSe.d2s, ChAoTiC-RoSe.d2s,
-X-Virus.d2s, Achilles-X.d2s, and TRoGDoR.d2s. The July 2007
-HackersUnited.d2s transfer illustrates technical trust across patches.
+As I remember it, he proved the builds worked, joined our circle,
+and later reached #1 himself. We spent a lot of time talking about
+tests and calculations. I eventually lost contact with him.
 
-THE CODE OF AMF
-[R] Members set aside old rivalries when joining, debated mathematics on
-private boards, and passed around character files that could expose their
-most valuable advantages. The participant remembers NO internal member
-betraying the clan's trust before people retired and moved on. This is a
-recollection about AMF's internal relationships, not a claim that the
-entire wider ladder community remained trustworthy.
+THANATOS AND THE OTHERS
+
+Thanatos, Murderin, LouSahFur, JayOfTeRoR, and others were
+important because we could argue about mechanics and hand one
+another complete builds. Thanatos became a friend. Old email
+records include saved-character transfers, including six
+older files he sent in March 2008.
+
+A screenshot could advertise a win, but inside the clan the
+real work was sharing enough detail for someone else to check
+how the result happened. That exchange made the group valuable
+and also made its privacy essential.
 
 --------------------------------------------------------------------------
 08. THE DISCOVERIES: A RECONSTRUCTED TECHNICAL HISTORY
@@ -311,7 +305,7 @@ entire wider ladder community remained trustworthy.
 
 08A. LIFE LOCK / FUNKY MANA
 [R/T] Certain exact mana values and Telekinesis/Energy Shield setups
-produced the apparent near-immunity of 'life lock'. The participant
+produced the apparent near-immunity of 'life lock'. I
 remembered a number close to 1,048,576, and the surviving 2010 guide
 actually records 1,048,576 at Telekinesis level 30 as a special point.
 Its writer describes alternating mana ranges, 'funky zero', and related
@@ -320,7 +314,7 @@ mathematical *tradition*, not proof of every explanation.
 
 08B. MOSQUITO COUNTER TO LIFE LOCK
 [R] Investigating why seemingly unbeatable characters occasionally died,
-the participant noticed a special mana-altering attack from small flying
+I noticed a special mana-altering attack from small flying
 Act III monsters (remembered as Sucker/Feeder mosquitoes). Simply
 assigning their attack as a modified player skill did not produce the
 expected opponent-mana drain. Instead, he experimented with custom
@@ -333,7 +327,7 @@ not be advertised as an established formula without reproducing it.
 08C. NEGATIVE RESISTANCE AS HEALING
 [R] Adeem's unusual combinations of severely negative elemental
 resistance and enormous elemental absorb turned common offensive aura
-approaches into healing. The participant's answer was to remove the
+approaches into healing. My answer was to remove the
 auras entirely and fight with physical attacks and Thorns. The broader
 lesson: your own attack may be the opponent's energy source.
 
@@ -350,7 +344,7 @@ gem counts and arithmetic are not preserved here.
 abnormal offensive event or rapid attack sequence that could kill from
 any join position. It also often killed the attacker because Thorns
 returned catastrophic damage. Some players survived by using life lock.
-The participant's secret alternative was counterintuitive: strip almost
+My secret alternative was counterintuitive: strip almost
 all physical attack damage from his items, then rely on the abnormal
 attack frequency to deliver enough total damage without overwhelming
 himself with return damage. More ordinary experiments used small stun
@@ -382,7 +376,7 @@ Submerge' and '+63 To Emerge'.
 related monster-state tricks; it also warns that some returned-damage
 interactions such as Thorns may still affect the character. Thus 'no
 one could damage you' is the historical dueling experience reported by
-the participant, not a verified universal engine guarantee.
+I, not a verified universal engine guarantee.
 
 08H. LIFE TAP / OVERHEALING
 [R] During HU's conflict with AMF, a third party casting a Life Tap-like
@@ -466,7 +460,7 @@ SOURCE D: ATTACK SPEED, DAMAGES AND DEFENCE [T]
     (level - 1) * 40% + 250%
   Other discussed boundaries include 8,388,607 raw damage and a
   reported roughly 714,000 post-reduction PvP ceiling in examples.
-  The participant's zero-attack-damage response to high-speed Thorns
+  My zero-attack-damage response to high-speed Thorns
   is a separate memory, not directly attributed to the 2010 writer.
 
 SOURCE E: HEXING NON CLASS SKILLS [T]
@@ -495,18 +489,24 @@ A. THE AMF CLAN DOCUMENT, EMAILED DECEMBER 27, 2006 [D]
   Local artifact: Pasted text(20261009-091339).txt
 
 B. 'CHARS' EMAIL, JULY 3, 2007 [D]
-  The author sends Hexon_FF and Hexon_iN to Thanatos and describes them
+  The surviving email sends Hexon_FF and Hexon_iN and describes them
   as complementary: if FF cannot kill someone, iN should. FF has a
   weapon switch with different outcomes. The email also mentions
   HyperJoin and a recent lack of activity. It is dated evidence of how
   complete edited characters were transmitted between friends.
   Local files: Hexon_FF.d2s, Hexon_iN.d2s; exported TXT reports.
 
-C. HACKERSUNITED CHARACTER TRANSFER, JULY 26, 2007 [D]
-  The participant recalls sending HackersUnited.d2s to Thanatos with
-  a warning about public use. A surviving file with that name has been
-  recovered. Its date and social context are based on the email shown
-  in the conversation; the filename alone cannot prove original author.
+C. A PRESERVED CHARACTER FROM HU [D]
+  An old character save associated with Hackers United is included
+  in the repository's characters folder. It is actual binary data,
+  not merely a filename in an email:
+  assets/characters/HackersUnited.d2s
+
+  A July 26, 2007 correspondence record supplies context for sharing
+  this build privately, including a warning about public games.
+  The attached file is evidence of the character properties, not
+  independent proof of its authorship or any ranked match.
+
 
 D. THE HEXON FAMILY [D]
   Hexon_FF.d2s and Hexon_iN.d2s are distinct, 1.10–1.13-era Sorceress
@@ -549,7 +549,7 @@ G. THE OLD AMF BOARD [D]
   InvisionFree archive: August 2006 homepage/member-list captures.
   Forum account names and archived member page survive. Most private
   technical threads appear lost or incompletely captured.
-  The participant says his own account was Azreal]AMF[, and an old
+  I says his own account was Azreal]AMF[, and an old
   password recovery email confirmed forum account ID 40. No reset
   tokens or private login secrets are included here.
 
@@ -557,139 +557,128 @@ G. THE OLD AMF BOARD [D]
 11. D2SPIRATE, REFEREEING, AND THE DECLINE OF TRUST
 --------------------------------------------------------------------------
 
-[R] The duel system depended on neutral hosts/referees. That same trust
-became a vulnerability when a program known as D2spirate reportedly
-allowed a host to copy joining players' full .d2s characters. Entire
-secret builds could be taken without permission, undermining months of
-research and the reason to keep developing private counters.
+D2spirate was different from the ordinary competitive spying I
+remember. An alternate character could help you watch an opponent's
+behavior. A stolen character file could reveal their entire design.
 
-[D/R] An August 1, 2007 email reference to d2spirate.rar places the
-name or archive in the participant's correspondence by then. Later
-public distributions are not proof of who originally authored it.
+I remember D2spirate as a program that let a game host obtain a
+joining player's local .d2s save without permission. This is a
+historical account of that capability; I have not reproduced its
+technical operation in a present-day controlled test. An August 1,
+2007 email reference to d2spirate.rar places that name in surviving
+correspondence by then, but doesn't identify its original author.
 
-[R] Another host-side manipulation remembered as 'Gods Be Gone' could
-secretly change dueling conditions through the host's game data. Such
-conduct would turn an apparently fair official result into a staged
-outcome. Attribution of particular abuses to identifiable individuals
-requires more evidence than private recollection alone.
+Why did this matter so much? Your save contained the exact skills,
+item properties, unusual values, and hidden combinations that made
+you competitive. If a rival got a copy, they could inspect it,
+duplicate it, or test counters in private. They could learn in
+minutes what had taken someone else months to discover.
 
-[I] A new patch destroyed optimized builds but created new research
-opportunities. A loss of TRUST had a different effect: if character
-secrets could always be stolen and hosts could invisibly alter rules,
-then originality and ranking credibility both lost value. The scene
-also diminished as players retired, grew older, and moved on.
+That undermined the very process that gave the ladder meaning.
+To enter a legitimate challenge, you had to join somebody's
+hosted game. If the host could use that access to take your
+research, then merely competing exposed your strongest advantage.
+Afterward you couldn't know whether an opponent had discovered
+your weakness independently or just read your file.
+
+I also remember a host-side manipulation called Gods Be Gone,
+associated with changing the conditions in which a duel took
+place. Unlike a new character mechanic, a secretly altered host
+could make the apparent outcome of an official match unreliable.
+I won't assign individual blame without stronger records.
+
+Patches could reset builds and begin another round of research.
+A breach of trust was harder to recover from. That wasn't the
+only reason the scene faded: people also grew older, retired,
+changed games, and lost contact. I cannot establish a single
+cause or exact date when the community ended.
 
 --------------------------------------------------------------------------
 12. WHY THIS EXPERIENCE FELT LIKE MAGIC
 --------------------------------------------------------------------------
 
-The participant described Diablo II Open Battle.net as his ultimate
-gaming memory, a place that now feels nearly dreamlike. He remembers
-not only victory, but a complete society: legends, apprenticeship,
-old grudges, accidental breakthroughs, flames, friendships, research,
-clan membership, betrayals in the wider scene, and quiet moments
-exchanging character files on MSN.
+The part I can't recreate by simply launching Diablo II is the
+combination of experimentation and community.
 
-[I] This was a game with a very low threshold to EXPERIMENT and a very
-high ceiling for UNDERSTANDING. Anyone with Hero Editor could try to
-invent something, but mastering the deeper numerical behavior required
-persistence, imagination, comparative testing, and social collaboration.
-The same experimental character could become a public reputation.
+Almost anyone could open Hero Editor and start changing a character.
+That did not mean they understood overflow, aura interactions,
+damage reduction, healing, or join order. There were discoveries
+to make, and the people testing them could personally challenge
+the best-known players. When an experiment worked, the result
+could become a ranked win, a clan discussion, and a forum fight.
 
-[I] Its heroes were accessible enough to challenge personally, but
-mysterious enough that their characters felt supernatural. A teenager
-could aim directly at the top, solve a problem adults and veterans had
-not solved, and be recognized by the people he admired.
+There was a real information game. We watched opponents, hid
+accounts, tested counters, gave each other deliberately difficult
+problems, and protected discoveries. I remember thinking about
+builds away from the computer because a single mechanical idea
+could change everything.
 
-[I] Youth and the early internet amplified the experience, but do not
-explain it away. The community also possessed an objectively unusual
-combination of local editing, permissive multiplayer, player-run
-rankings, technical secrecy, and intimate social reputation.
+The gem puzzle is the memory that best explains this for me.
+Adeem already knew the trick. What mattered was that he wanted
+me to arrive at it myself and then trusted me with the finished
+character. That was learning from somebody who understood how
+to think about the game, not just receiving a stronger item.
 
-One particularly revealing memory is the extra gem on the cursor. It
-was not a tournament trophy. It was a private flash of insight shared
-with a mentor/rival who understood exactly why it mattered. That is why
-the memories of discovery can feel even stronger than the memories of
-rank #1.
+I remember the victories, but I also remember spending time on
+MSN with people who cared about an obscure calculation as much
+as I did. That is the part that survived in my head after the
+actual sites and conversations vanished.
 
 --------------------------------------------------------------------------
 13. WHAT IT WOULD TAKE TO RECREATE IT
 --------------------------------------------------------------------------
 
-[I] A modern successor would probably need:
+I haven't found another game that puts all these pieces together
+in quite the same way. That is a personal judgment, not a claim
+that no other community has ever done similar research.
 
-  1) CHARACTERS THE PLAYER ACTUALLY OWNS, exportable, importable, and
-     editable locally using an attractive graphical editor.
-  2) OPT-IN MODIFIED-CHARACTER MULTIPLAYER, isolated from protected
-     competitive modes so experimentation harms no unwilling players.
-  3) DEEP, INTERACTING NUMERICAL SYSTEMS rather than shallow stat caps
-     that make every discovery trivial.
-  4) PLAYER-RUN SERVERS, neutral referees, and transparent rules for
-     challenges, rematches, join-position differences, and bans.
-  5) PERSISTENT SMALL-COMMUNITY IDENTITY: forum handles, clans, posts,
-     rivalries, developer-independent rankings, and visible reputations.
-  6) A PUBLIC AND PRIVATE RESEARCH CULTURE: share a breakthrough to
-     earn credit, or guard it and challenge others to discover a counter.
-  7) ARCHIVAL INFRASTRUCTURE: backed-up posts, preserved discussion,
-     dated discoveries, exportable rankings, and hashed save files.
-  8) RULES THAT DIFFERENTIATE INVENTION FROM FRAUD: original permitted
-     modifications versus secret referee intervention and stolen files.
+A modern equivalent would need local, editable characters and
+a complex enough underlying system that experimentation can keep
+producing surprises. It would need opt-in multiplayer where
+everyone accepts those modifications, plus visible competitions
+with rules, referees, and reputations.
 
-[I] Most big live-service games are designed for fairness through
-server control, predictable balance, progression, and anti-cheat. Those
-are reasonable priorities, but they remove the possibility of taking an
-arbitrary hex-edited local character into normal ranked multiplayer.
-A modern equivalent is thus more plausible as an opt-in indie, open
-source, or private-server ecosystem than a mainstream competitive MMO.
+It would also need public places to show results and private
+places to research them. Secrets would have to remain worth
+protecting without hosts being able to steal the underlying
+character files. The community should be small enough for
+people to recognize one another, but active enough to keep
+discovering new counters.
 
-[I] Recreating the software is easier than recreating the social world.
-The hard part is fostering a community small enough for legendary names
-to matter, large enough for independent discoveries to keep appearing,
-and trusting enough to share secrets without losing ownership of work.
-
-Could that exact magic recur? Probably not in precisely the same
-personal circumstances. Could the ENGINE of it recur? Yes, if those
-social and technical incentives were deliberately brought together.
+Many modern online games use server-controlled characters and
+tight balance for good reasons. Those choices make the old Open
+Battle.net style much harder to reproduce. Even if the software
+existed, getting the same friendships, rivalries, trust, and
+research culture would be the difficult part.
 
 --------------------------------------------------------------------------
 14. LESSONS AND UNRESOLVED QUESTIONS
 --------------------------------------------------------------------------
 
-LESSONS
+Here are the main questions I can't settle from the records I have:
 
-* Knowledge is the actual competitive currency; characters are a form
-  of storing and transferring it.
-* Removing a stat or attack may defeat an opponent more effectively
-  than maximizing your own damage.
-* The strongest build is conditional on opponents, rules, timing, and
-  which counters have been discovered.
-* A rule-breaking new discovery and a dishonest match manipulation are
-  different things; communities need a clear and trusted boundary.
-* Trust enables collaboration, but trust alone is not archival backup.
-* Extremely skilled rivals can also be one's most important teachers.
-* Losing a community can feel like losing a world, even when its game
-  remains available.
+* Can the original independent LadderHall tables supporting the
+  seven-of-seven 1.11 ranking claim still be recovered?
+* What exactly caused the Life Tap and overhealing deaths, and
+  how much depended on join order?
+* Which Act III flying monster interaction caused the mana change
+  in the mosquito experiment?
+* Who discovered Submerge/Emerge first, and exactly what counters
+  were known before it was banned?
+* Can the original one-hit gem build be identified among saved
+  characters, with the correct gem count and properties?
+* Can more of the private AMF mathematical forum be recovered?
+* Can dates and ownership of the surviving character backups be
+  established beyond filenames and later recollections?
 
-UNRESOLVED
+The record isn't helped by filling any of those gaps with a neat
+answer. It's more useful to preserve the question, the evidence
+that exists, and what I actually remember.
 
-* Were all seven 1.11 ladder #1 claims recorded in an independent
-  LadderHall table, and can that page ever be recovered?
-* What were the exact server-side engine mechanics behind the Life Tap
-  overhealing deaths, especially across join positions?
-* Which Act III monster and precise skill/state modified mana in the
-  recalled life-lock counter?
-* Who initially discovered Submerge/Emerge, and what was its actual
-  set of vulnerabilities before the ban?
-* What were the exact item properties and gem counts in the original
-  1-hit build, and can a surviving save illuminate them?
-* What is the best provenance record for the numerous backups in
-  save.rar, including original modification dates?
-* Can any private AMF forum topic pages be recovered from personal
-  caches, emails, or other members' old machines?
-* Can lost connections to Adeem or Jorden be renewed respectfully?
-
-The uncertainties belong in the archive rather than being 'solved' by
-making up confident explanations.
+The two things that have stayed clearest are that discoveries
+mattered more than mechanical speed, and that the people who
+understood them mattered more than the ranking once the community
+was gone.
 
 --------------------------------------------------------------------------
 15. DIRECT LINKS TO SURVIVING HISTORY
@@ -774,7 +763,7 @@ after the servers and forums became quiet.
 END OF NARRATIVE
 ==========================================================================
 
-LOCAL FILE MANIFEST (AS AVAILABLE DURING COMPILATION)
+ORIGINAL LOCAL FILE MANIFEST (AS AVAILABLE DURING 2026 COMPILATION)
 SHA-256 digests follow for future identification.
 
 Pasted text(20261009-091339).txt
