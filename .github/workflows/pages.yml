@@ -8,6 +8,7 @@ on:
       - '.github/workflows/pages.yml'
       - '.github/scripts/site_reflection.py'
       - '.github/scripts/site_d2kicker.py'
+      - '.github/scripts/site_clones.py'
       - 'assets/screenshots/JayOfTerror_D2Kicker_2007.webp'
       - 'googlee03cbd9c4060257e.html'
   workflow_dispatch:
@@ -49,6 +50,9 @@ jobs:
 
       - name: Apply D2Kicker history
         run: python3 .github/scripts/site_d2kicker.py
+
+      - name: Add clone research and Stun details
+        run: python3 .github/scripts/site_clones.py
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
