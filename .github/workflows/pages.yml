@@ -13,6 +13,7 @@ on:
       - '.github/scripts/site_lifelock_debate.py'
       - '.github/scripts/site_research_debates.py'
       - '.github/scripts/site_mechanics_and_trust.py'
+      - '.github/scripts/site_hidden_game.py'
       - 'assets/screenshots/JayOfTerror_D2Kicker_2007.webp'
       - 'googlee03cbd9c4060257e.html'
   workflow_dispatch:
@@ -69,6 +70,9 @@ jobs:
 
       - name: Apply precise mechanics and trust history
         run: python3 .github/scripts/site_mechanics_and_trust.py
+
+      - name: Add the game beneath the game reflection
+        run: python3 .github/scripts/site_hidden_game.py
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
