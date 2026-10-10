@@ -6,6 +6,7 @@ on:
     paths:
       - 'Beyond_the_Realm_Major_Overhaul.zip'
       - '.github/workflows/pages.yml'
+      - '.github/scripts/site_reflection.py'
   workflow_dispatch:
 
 permissions:
@@ -33,6 +34,9 @@ jobs:
           cp -R temp-site/Beyond_the_Realm/. _site/
           touch _site/.nojekyll
           test -f _site/index.html
+
+      - name: Apply closing reflection
+        run: python3 .github/scripts/site_reflection.py
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
