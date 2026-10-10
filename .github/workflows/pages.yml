@@ -7,6 +7,8 @@ on:
       - 'Beyond_the_Realm_Major_Overhaul.zip'
       - '.github/workflows/pages.yml'
       - '.github/scripts/site_reflection.py'
+      - '.github/scripts/site_d2kicker.py'
+      - 'assets/screenshots/JayOfTerror_D2Kicker_2007.webp'
       - 'googlee03cbd9c4060257e.html'
   workflow_dispatch:
 
@@ -39,6 +41,14 @@ jobs:
 
       - name: Apply closing reflection
         run: python3 .github/scripts/site_reflection.py
+
+      - name: Include D2Kicker screenshot
+        run: |
+          mkdir -p _site/assets/screenshots
+          cp assets/screenshots/JayOfTerror_D2Kicker_2007.webp _site/assets/screenshots/
+
+      - name: Apply D2Kicker history
+        run: python3 .github/scripts/site_d2kicker.py
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
