@@ -158,4 +158,3 @@ A few places where the old world can still be seen:
 - [NightShiver / LadderHall screenshot and veteran discussion](https://www.reddit.com/r/diablo2/comments/1boysiy/for_the_neckbeards_a_glimpse_into_our_glorious/)
 - [Open Battle.net veteran reunion discussion](https://www.reddit.com/r/diablo2/comments/lsmm01/anyone_still_do_open_bnet_duels_with_hex_edited/)
 
-**About accuracy:** Some names, dates, clan claims, and events are backed by contemporary documents or archived pages. Other details are my recollections. I haven't invented dialogue or merged those two kinds of evidence into a single claim of certainty. The full archive explains the distinctions and records unanswered questions.
