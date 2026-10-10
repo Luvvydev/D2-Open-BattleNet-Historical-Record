@@ -52,6 +52,26 @@ I also crossed a line: secretly involving a referee in an official match wasn't 
 
 The fights, screenshots, and public clashes eventually brought me into contact with the clan I'd set out to beat.
 
+### The rules we actually played around
+
+I recently recovered the written rules for **JayOfTeror's Diablo II ladders**, dated January 23, 2007. These were a separate ladder from LadderHall, but the surviving page shows just how organized the wider Open Battle.net dueling scene had become.
+
+For the **1.11 level 99 Open Battle.net ladder**, the rules banned Funki PI, Stun, socket glitches, Smite Dodge, potions, third-party cheats, and retreating into town. Matches were held in neutral games, limited to fifteen minutes, and counted as draws if nobody died. The winner took the higher-ranked player's place. A challenge had to be settled within one week, and **the highest-ranked player was required to join first**.
+
+That last rule caught my attention because join position was something we spent time testing. Here it was, written into a public rulebook.
+
+The site also ran **1.09 level 99**, **1.09 pure Barbarian**, **1.09 high-level Xtremes**, and even a **Closed Battle.net** ladder. The Xtremes division permitted characters from level **one million to twenty million**, with the first player to three kills winning. The posted rules called for fair matches and investigations into cheating. It was a player-run competition with actual procedures, not just people announcing they were the best.
+
+[Read JayOfTeror's archived ladder rules](https://web.archive.org/web/20071011220309/http://jayofteror.com/index.php?act=uportal).
+
+### Challenges weren't private arrangements
+
+I also found the **Diablo 2 Ladders Emporium**, with pinned topics for posting challenges, reporting winners, registering, and appointing ladder staff. Ordinary threads called out named opponents, recorded replies, and included people announcing retirement. You didn't just duel and disappear. The match began on the forum, and the result came back to the forum.
+
+The site's proposed **Immortal** honor was meant for people with lasting accomplishments, including discoveries and contributions to the game, rather than a few lucky wins. That sounded familiar. Knowledge and reputation mattered as much as the character standing in the Blood Moor.
+
+[See the archived public challenges](https://web.archive.org/web/20071011221723/http://jayofteror.com/index.php?showforum=87).
+
 ## Chapter II: Azreal]AMF[
 
 I eventually joined AMF under the name **Azreal]AMF[**.
@@ -117,6 +137,10 @@ I recently found it mentioned in an old downloads thread on JayOfTerror's forum.
 ![JayOfTerror's 2007 Diablo II downloads thread listing D2Kicker](assets/screenshots/JayOfTerror_D2Kicker_2007.webp)
 
 
+The old forum had even more of a trace than the downloads listing. Under **Blackbird's Horadic Cube**, a public topic was titled **“Diablo2Kicker Hack by Azreal]AMF[”**, with the note **“Beta Test: Please test and make sure it works.”** In the October 2007 archive it showed nineteen replies and 744 views, with activity as late as September 26. I'd forgotten how far that little program had traveled.
+
+[See the archived D2Kicker discussion listing](https://web.archive.org/web/20071011222454/http://www.jayofteror.com/index.php?showforum=251).
+
 The same thread reminded me of something else I loved about Open Battle.net. People released *clones* of powerful characters so others could take them apart, study how they worked, and try to beat them. Jay's list included **WARgod_Clone** for learning how to build and counter 1.09 characters in 1.11, the **Carpathian Clone** to demonstrate Thorns, **Funki Crusher** to defeat Funki PI, and **xXkillerXxNew** to demonstrate the one-hit stun glitch. There were even tools for running two Diablo II clients on one computer so you could test characters against yourself.
 
 The most familiar part was something Jay told a newcomer in June 2007: **“free downloads but knowledge is not free; for that you have to earn it.”** That was the difference between owning an edited character and understanding why it worked. It was also the kind of lesson Adeem had taught me with Snowman.
@@ -129,6 +153,22 @@ Think of two characters standing in a game lobby. Both look invincible. Both hav
 A good test isolated one question. A good rival forced you to ask a better one. It wasn't always clean science: people bluffed, hid accounts, publicly flamed one another, and sometimes manipulated situations they should not have. Espionage and research existed side by side with genuine friendships. I remember using alternate identities to gather information without exposing what I was investigating. The point wasn't merely to beat a build once. It was to understand *why* it worked, and then build something that would make it fail.
 
 That is why AMF's private mathematical forum mattered. A screenshot could show a win. The actual knowledge lived in calculations, trial and error, arguments over mechanics, and shared save files. A new discovery could rewrite the practical rules of the ladder until someone found a counter or officials banned the interaction.
+
+### The old research was written down
+
+More of JayOfTeror's archives survive than I'd expected. There was an entire **Diablo 2 Editors & Calculators** forum with Hero Editor, character editors, resistance calculations, **Prayer and mana regeneration calculators**, Funky PI calculators, and spreadsheets for working out precise mana values. The old `mana.htm` page even described the conditions that could throw off its calculations, including Warmth and mana regeneration effects. This was the kind of painstaking work I remember from our private research conversations, except here some of it was happening in public.
+
+[Browse the archived editors and calculators](https://web.archive.org/web/20071011212310/http://jayofteror.com/index.php?showforum=286) · [Archived mana calculator](https://web.archive.org/web/20071011/http://jayofteror.com/mana.htm)
+
+One discussion from **May and June 2005**, *Funky PI, How it is obtained*, shows people working through combinations of exact mana values and Telekinesis levels, testing Thorns, Mind Blast, Psychic Hammer, and other weaknesses. Jay wrote about what he called **Immortal PI**, giving credit to a character named **Destructo-Sorc**. He described a setup that resisted nearly everything he had encountered, but still believed somebody would eventually find a counter.
+
+That was the part of the culture I remember most clearly. An apparently unbeatable character wasn't the end of the conversation. It was the beginning of another search. Even the forum discussion contains someone asking for a clone so they could learn how the setup worked.
+
+[Read the archived Funky PI discussion](https://web.archive.org/web/20071011215530/http://jayofteror.com/index.php?showtopic=1372).
+
+The clone download forum itself was full of names from that arms race: **WarGod**, **Carpathian**, **Funki Crusher**, and even a topic called **Adeem's Revenge Clone**. I don't know its story from the title alone, but seeing Adeem's name there again was something.
+
+[See the archived character clone forum](https://web.archive.org/web/20071011212310/http://jayofteror.com/index.php?showforum=290).
 
 ## Chapter IV: When the rules broke
 
