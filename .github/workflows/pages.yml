@@ -10,6 +10,7 @@ on:
       - '.github/scripts/site_d2kicker.py'
       - '.github/scripts/site_clones.py'
       - '.github/scripts/site_ladder_history.py'
+      - '.github/scripts/site_lifelock_debate.py'
       - 'assets/screenshots/JayOfTerror_D2Kicker_2007.webp'
       - 'googlee03cbd9c4060257e.html'
   workflow_dispatch:
@@ -57,6 +58,9 @@ jobs:
 
       - name: Apply recovered ladder and research history
         run: python3 .github/scripts/site_ladder_history.py
+
+      - name: Add Life Lock public debate
+        run: python3 .github/scripts/site_lifelock_debate.py
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
