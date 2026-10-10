@@ -106,6 +106,16 @@ We spent a lot of time talking through mechanics and testing possibilities. I lo
 
 Some of those files still exist. So do traces of the emails.
 
+### D2Kicker: a tool I made
+
+Dueling wasn't the only thing I worked on. I also made a small utility called **D2Kicker**, which helped game hosts identify a player's name and IP address so they could remove unwanted players from their games.
+
+I recently found it mentioned in an old downloads thread on JayOfTerror's forum. In an entry dated July 26, 2007, Jay described **D2Kicker** as a utility designed by “Azreal]AMF[ also known as Thor.” Seeing both names together on a page from that time brought back another piece of the world I'd almost lost.
+
+[Read the original JayOfTerror downloads thread, preserved by the Wayback Machine](https://web.archive.org/web/20071011195114/http://www.jayofteror.com/index.php?showtopic=9929).
+
+![JayOfTerror's 2007 Diablo II downloads thread listing D2Kicker](assets/screenshots/JayOfTerror_D2Kicker_2007.webp)
+
 ## Between matches: the war for information
 
 Think of two characters standing in a game lobby. Both look invincible. Both have equipment values that would make no sense in regular Diablo II. One player believes he has found a combination nobody can beat. The other is not necessarily trying to win the duel. He might be testing whether the first character loses life when healing triggers, whether switching from elemental to physical damage changes the outcome, or whether the same setup behaves differently when the joining order changes.
