@@ -170,6 +170,30 @@ The clone download forum itself was full of names from that arms race: **WarGod*
 
 [See the archived character clone forum](https://web.archive.org/web/20071011212310/http://jayofteror.com/index.php?showforum=290).
 
+### The threads where people worked it out
+
+The forum archives brought back the sound of those arguments. An August 2006 thread called **Gap Aura: Everything You Wanted to Know** began with somebody asking how to make one and another player telling him that the exact recipe was something he would have to discover himself.
+
+The discussion became much more technical. People described trying to make Holy Shock deal damage across a huge range, so the same aura could threaten characters with both low and high mana. They argued about Lightning Mastery, minimum and maximum lightning damage, resistance piercing, and repeating patterns of four damage outcomes. Some explanations contradicted others. One player wanted everybody to separate tested knowledge from speculation because the misinformation was wasting people's time.
+
+Then JayOfTeror stepped in. He wanted people to share what they knew, but said he wouldn't release a clone out of respect for **Rich and Clan XxSiC**. He was willing to open the discussion while still respecting the work of the people behind it. Another player explained most of the setup but deliberately withheld the final attribute. That mixture of generosity, rivalry, loyalty, and guarded secrets is exactly how I remember those forums.
+
+Another post stood out because it mentioned **Adeem and Rich together** as two players a powerful conventional setup might still struggle to defeat. Elsewhere in the discussion, someone compared a proposed build to the **Adeemsrevenge clone**. Seeing those names inside an actual technical argument makes that time feel much closer.
+
+[Read the archived Gap Aura discussion](https://web.archive.org/web/20071011/http://jayofteror.com/index.php?showtopic=9691).
+
+On **December 17, 2006**, **Neounk_BoT** published the one-hit Stun setup: **90% chance to cast level 10 Stun on attack and on hit**, with other on-hit and on-attack skills removed. He explained the near-continuous triggering, the risk of dying to Thorns, and the difficulty of balancing enough damage to kill without destroying your own defenses. **Blackbird** replied that he had tested it successfully. Jay congratulated Neounk and immediately encouraged people to work on a counter. Within the same conversation, players were already discussing lowering Smite damage and damage reduction to survive the reflected damage.
+
+That is the cycle I remember: somebody revealed an interaction, other people tested it, and almost immediately everyone started looking for its weakness.
+
+[Read the original one-hit Stun discussion](https://web.archive.org/web/20071011/http://jayofteror.com/index.php?showtopic=15079).
+
+The **September 2006** thread **How do you kill Funki-PI?** was another public attempt to break an apparently invincible build. Players debated Mind Blast, Psychic Hammer, Thorns, and a particularly strange counter using summoned monsters. One person proposed having a high-level WarGod clone kill a summoned zombie, gain experience, and drop back to level one, making its equipment unusable. **Rich / WarBandit** disagreed that this would defeat a properly configured build because its crucial mana value was edited into the character rather than dependent on equipment. He suggested a **Baal Crab** interaction with mana burn might be more promising.
+
+They didn't agree on everything. That's what makes the conversation worth preserving: you can watch people testing ideas, arguing over why a counter should or shouldn't work, and offering to prove it in a game.
+
+[Read the original Funki PI counter discussion](https://web.archive.org/web/20071011/http://jayofteror.com/index.php?showtopic=10321).
+
 ### Who should get to know?
 
 One old forum listing stopped me in my tracks: a public poll called **“Life Lock! Should we release it to public?”** By September 30, 2007, it showed **143 replies and 2,799 views**. That was a long conversation about whether one of the game's powerful defensive discoveries should be shared with everybody.
