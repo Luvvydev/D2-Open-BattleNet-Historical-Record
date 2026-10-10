@@ -26,7 +26,15 @@ At first glance, it sounds like a contest to see who could type the largest numb
 
 People spent weeks testing one idea. They guarded their character files because a single file could reveal everything they had learned. When somebody discovered a new mechanic, the balance of the ladder could change overnight.
 
+The real competition happened long before anyone entered the Blood Moor. We were reverse engineering a game without access to a neat explanation of all its rules. We edited characters, changed one number, tested it against another build, watched the results, and tried to work backwards to the calculation. Sometimes the answer was an integer boundary. Sometimes it depended on which player joined the game first. Sometimes the weapon that looked strongest was actually feeding the opponent life.
+
+There was also an information war. You could disguise your identity with an alternate character and duel someone simply to find out how their build behaved. You could watch which attacks they avoided, whether an aura healed them, whether they survived in a different join position, or what happened when you removed one particular damage source. A loss in public could still reveal what you needed for the next experiment. The more successful a player became, the more people wanted to know what was inside their character file.
+
+Some discoveries became forum discussions and public challenges. Others stayed in private clan research threads, emails, and MSN conversations. It was closer to a small competitive reverse engineering scene than a normal PvP ladder. And because the top players were reachable in the same channels and forums as everyone else, you could test a theory against a person whose name you had been hearing for months.
+
 We had our own ranked ladders, referees, forums, clans, arguments, and legends. The game gave us a system. We built a world around it.
+
+What made it hard to recreate was the combination. Easy character editing gave almost anyone a way in, but the hidden mechanics gave serious experimenters years of problems to solve. Public ladders made discoveries count. Private research gave clans something to protect. Forums gave victories witnesses and reputations long memories. Modern games have modding communities, competitive ladders, and theorycrafting, but rarely all of these together in one small player-run ecosystem. That's my explanation for why I've never found the same experience again, not proof nobody has built anything similar.
 
 ## Chapter I: HU_Thor
 
@@ -70,15 +78,15 @@ He developed remarkable builds, including one where huge negative elemental resi
 
 But the memory that stayed with me wasn't a ladder result.
 
-Adeem was working on a character that needed one more gem to reach its intended effect. The problem was simple: there wasn't room to carry it. He gave me the puzzle.
+Adeem was working on a character that needed one more gem to reach its intended effect. The problem was simple: there wasn't room to carry it. He already knew the answer. He gave me the puzzle deliberately, because he wanted me to work it out myself rather than simply hand me a finished character and tell me the trick.
 
 At some point, while moving an ear-like item around a full inventory, I realized the inventory grid wasn't the whole inventory. You could leave an item on the mouse cursor through saving, exiting, and rejoining.
 
 One more place to hold something. One more gem.
 
-I told him. He understood immediately, acknowledged the solution, and gave me the character.
+I told him what I had figured out. He knew I had reached the answer he had been guiding me toward, and he gave me the character. I hadn't solved a problem he was stuck on. He had taught me to notice a possibility I would otherwise have missed.
 
-Nearly twenty years later, I still remember that moment better than most victories. We weren't just making stronger characters. We were finding things that neither of us had thought possible the day before.
+Nearly twenty years later, I still remember that moment better than most victories. We weren't just making stronger characters. The people who already understood the strange parts of the game were teaching the next person how to find them.
 
 Our rivalry also got ugly at times. That's part of the memory too. I owe Adeem credit for his discoveries, and I regret some of the things I said to him when competing mattered more than it should have.
 
@@ -97,6 +105,14 @@ We spent a lot of time talking through mechanics and testing possibilities. I lo
 **Thanatos, Murderin, LouSahFur, JayOfTeRoR**, and the rest of AMF weren't just names on a roster. We knew each other's work, argued about mechanics, and trusted each other with files that represented hundreds of hours of experimentation.
 
 Some of those files still exist. So do traces of the emails.
+
+## Between matches: the war for information
+
+Think of two characters standing in a game lobby. Both look invincible. Both have equipment values that would make no sense in regular Diablo II. One player believes he has found a combination nobody can beat. The other is not necessarily trying to win the duel. He might be testing whether the first character loses life when healing triggers, whether switching from elemental to physical damage changes the outcome, or whether the same setup behaves differently when the joining order changes.
+
+A good test isolated one question. A good rival forced you to ask a better one. It wasn't always clean science: people bluffed, hid accounts, publicly flamed one another, and sometimes manipulated situations they should not have. Espionage and research existed side by side with genuine friendships. I remember using alternate identities to gather information without exposing what I was investigating. The point wasn't merely to beat a build once. It was to understand *why* it worked, and then build something that would make it fail.
+
+That is why AMF's private mathematical forum mattered. A screenshot could show a win. The actual knowledge lived in calculations, trial and error, arguments over mechanics, and shared save files. A new discovery could rewrite the practical rules of the ladder until someone found a counter or officials banned the interaction.
 
 ## Chapter IV: When the rules broke
 
@@ -123,7 +139,11 @@ An unusually powerful character could survive an entire patch of challenges. It 
 
 We remember a program called **D2spirate** that reportedly allowed the host of a game to copy a joining player's local character file. There were also accounts of hosts quietly changing the conditions of a duel. I can't verify every accusation or attribute every incident, but the larger problem is clear.
 
-When your character contained your research, secretly copying it was more than taking equipment. It was taking the work that separated one player from another.
+A full character save was effectively the source code of your competitive advantage. Whoever acquired it could inspect the exact item properties, hidden combinations, skills, and values that might have taken you months to discover. A thief could duplicate the build, test it privately, or design a counter without doing the original research. Even if the thief never won a match, the secret was no longer yours.
+
+That was why the alleged character-stealing capability of **D2spirate** mattered so much. The dueling system relied on players entering games hosted by others, often with a referee present. If simply joining such a game could expose your entire character, the act required for a legitimate challenge could destroy the advantage you were trying to prove. There was no way to look at an opponent afterward and know whether they had worked out your weakness or quietly copied the answer. It made normal testing dangerous, weakened the meaning of rankings, and made sharing new discoveries harder.
+
+I can't establish from the surviving material how widespread use of the program was or precisely which individual stole which file. But the risk itself explains why the memory of it has such weight. Losing to someone who outsmarted you was part of the game. Losing the private research that made meaningful competition possible was something else.
 
 The forums became quieter. People retired, changed games, moved on, or simply stopped logging in. Sites disappeared. Private discussions went with them. Even people who once talked every day could become impossible to find.
 
@@ -145,9 +165,44 @@ And for a while, we had a whole world built around both.
 
 ---
 
+## Images from the old games
+
+These are surviving duel screenshots from the era. They're presented as glimpses of the players, chat, and screenshots people circulated, not proof that each was a formally refereed ladder match.
+
+![A Diablo II duel result, preserved as Rich Dead](assets/screenshots/Rich_Dead.jpg)
+
+*One of the preserved in-game death screenshots. For a competitive scene built on public proof and reputation, an image like this was something people could bring back to the forums.*
+
+![A duel aftermath with the message log open](assets/screenshots/Warbandit_Dead.jpg)
+
+*The message log was often as much a part of the story as the character standing on screen.*
+
+<details>
+<summary>More surviving duel screenshots</summary>
+
+![Duel screenshot with chat log](assets/screenshots/Sinner_Owned.jpg)
+
+![Another duel screenshot on a bridge](assets/screenshots/Sinner_Owned_again.jpg)
+
+![Warbandit duel screenshot](assets/screenshots/Warbandit_Owned_Again.jpg)
+
+![Small cropped chat excerpt from a duel](assets/screenshots/Sinner_Killed.jpg)
+
+</details>
+
+## Character files that survived
+
+The actual character saves are included in this package for historical inspection, not as verified reproductions of specific ladder outcomes. These are modified Diablo II characters and should be examined on copies in a suitable offline environment. A save's existence doesn't establish its original author or which player first discovered a technique.
+
+- [HackersUnited.d2s](assets/characters/HackersUnited.d2s)
+- [Hexon_FF.d2s](assets/characters/Hexon_FF.d2s)
+- [Hexon_iN.d2s](assets/characters/Hexon_iN.d2s)
+
+The Hexon files are especially interesting because their edited skill and item properties survive in binary form. The longer archive describes what their exports contain, including unusual aura, absorption, and Submerge/Emerge properties. The stored values are evidence of the builds, not proof of exactly how the engine resolved every interaction during a duel.
+
 ## The surviving record
 
-This README is the short version, told as a personal history. The longer archive preserves the technical material and documentation without interrupting the story.
+This README is the short version, told as a personal history. The account includes my memories and interpretations, alongside saved files and contemporary sources; I distinguish those where it matters. The longer archive preserves the technical material and documentation without interrupting the story.
 
 **[Open the complete 16-section history, technical notes, and evidence inventory](Open_BattleNet_AMF_LadderHall_Personal_History_Archive.txt)**
 
