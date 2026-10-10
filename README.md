@@ -24,7 +24,7 @@ Then you could take that character online and fight someone else who had done th
 
 At first glance, it sounds like a contest to see who could type the largest number into an editor. It wasn't. The deeper you went, the more you learned that the game had limits, exceptions, strange calculations, and interactions that could turn an apparently invincible character into a corpse.
 
-People spent weeks testing one idea. They guarded their character files because a single file could reveal everything they had learned. When somebody discovered a new mechanic, the balance of the ladder could change overnight.
+People spent weeks testing one idea. They guarded their character files because a single file could reveal everything they had learned. When somebody discovered a new mechanic, the balance of the dueling ladder could change overnight.
 
 The real competition happened long before anyone entered the Blood Moor. We were reverse engineering a game without access to a neat explanation of all its rules. We edited characters, changed one number, tested it against another build, watched the results, and tried to work backwards to the calculation. Sometimes the answer was an integer boundary. Sometimes it depended on which player joined the game first. Sometimes the weapon that looked strongest was actually feeding the opponent life.
 
@@ -34,7 +34,7 @@ Some discoveries became forum discussions and public challenges. Others stayed i
 
 We had our own ranked ladders, referees, forums, clans, arguments, and legends. The game gave us a system. We built a world around it.
 
-What made it hard to recreate was the combination. Easy character editing gave almost anyone a way in, but the hidden mechanics gave serious experimenters years of problems to solve. Public ladders made discoveries count. Private research gave clans something to protect. Forums gave victories witnesses and reputations long memories. Modern games have modding communities, competitive ladders, and theorycrafting, but rarely all of these together in one small player-run ecosystem. That's my explanation for why I've never found the same experience again, not proof nobody has built anything similar.
+What made it hard to recreate was the combination. Easy character editing gave almost anyone a way in, but the hidden mechanics gave serious experimenters years of problems to solve. Public ladders made discoveries count. Private research gave clans something to protect. Forums gave victories witnesses and reputations long memories. Modern games have modding communities, competitive ladders, and theorycrafting, but rarely all of these together in one small player-run ecosystem. That's my explanation for why I've never found the same experience again.
 
 ## Chapter I: HU_Thor
 
@@ -46,7 +46,7 @@ AMF was the clan at the top of my list.
 
 They were small, selective, and known for characters that seemed to operate by rules nobody else fully understood. I didn't want to admire them from a distance. I wanted HU to challenge them.
 
-One of the people helping me was my friend Zak, known as **STORMY]**, who had become a ladder referee. We experimented with an interaction involving Life Tap, Smite, and extreme regeneration. Against certain high-end characters, healing itself appeared to become lethal. It was exactly the kind of discovery that could upset an established ranking.
+One of the people helping me was my friend Zak, known as **STORMY]**, who had become a ladder referee. We experimented with an interaction involving Life Tap curse, Smite, and extreme regeneration. Against certain high-end characters, healing itself appeared to become lethal. It was exactly the kind of discovery that could upset an established ladder ranking.
 
 I also crossed a line: secretly involving a referee in an official match wasn't a fair test of two independently built characters. It happened, and leaving it out would make this less of a history.
 
@@ -58,7 +58,7 @@ I eventually joined AMF under the name **Azreal]AMF[**.
 
 That changed the game for me.
 
-AMF, short for **Alpha Mother Fvckers**, wasn't a large clan built around recruitment. Its written rules called for a small active membership, voting on recruits, and no formal hierarchy among members. Its founding history names **Thanatos, Murderin, and LouSahFur** among the central figures.
+AMF, short for **Alpha Mother Fuckers**, wasn't a large clan built around recruitment. Its written rules called for a small active membership, voting on recruits, and no formal hierarchy among members. Its founding history names **Thanatos, Murderin, and LouSahFur** among the central figures.
 
 Outside the clan, we were rivals. Inside, we shared our work.
 
@@ -66,7 +66,7 @@ There was a private InvisionFree forum where people discussed calculations, expe
 
 I remember the trust more clearly than any formal rule. People handed over the very secrets that made their characters dangerous. As far as I remember, nobody inside AMF betrayed that trust before the community slowly faded.
 
-A surviving AMF history from 2006 lists me as #1 on all seven 1.11 ladders. That's a contemporary clan claim, not seven recovered official ladder tables. Even so, the document is one of the few surviving records connecting my old name to that world.
+A surviving AMF history from 2006 lists me as #1 on all 1.11 ladders in my prime.
 
 ## Chapter III: The people behind the characters
 
@@ -74,13 +74,13 @@ A surviving AMF history from 2006 lists me as #1 on all seven 1.11 ladders. That
 
 **Adeem / Crucify]AMF[** was a mentor and, later, one of my fiercest rivals.
 
-He developed remarkable builds, including one where huge negative elemental resistance and absorb could make an opponent's elemental attacks heal him instead. I remember responding by removing the elemental auras he was exploiting and turning the fight into a physical exchange.
+He developed remarkable builds, including one where huge negative elemental resistance and absorb could make an opponent's elemental attacks heal him instead. I remember responding by removing the elemental auras he was exploiting and turning the fight into a physical exchange + thorns.
 
 But the memory that stayed with me wasn't a ladder result.
 
-Adeem was working on a character that needed one more gem to reach its intended effect. The problem was simple: there wasn't room to carry it. He already knew the answer. He gave me the puzzle deliberately, because he wanted me to work it out myself rather than simply hand me a finished character and tell me the trick.
+Adeem was working on a character that needed one more gem to reach its intended effect which was a 1 hit aura killer. The problem was simple: there wasn't room to carry it. He already knew the answer. He gave me the puzzle deliberately, because he wanted me to work it out myself rather than simply hand me a finished character and tell me the trick.
 
-At some point, while moving an ear-like item around a full inventory, I realized the inventory grid wasn't the whole inventory. You could leave an item on the mouse cursor through saving, exiting, and rejoining.
+At some point, while moving another players ear item around with a full inventory of charms, I realized the inventory grid wasn't the whole inventory. You could leave an item on the mouse cursor through saving, exiting, and rejoining.
 
 One more place to hold something. One more gem.
 
@@ -129,19 +129,17 @@ Here are a few I remember:
 | **Aura stacking** | Equipment changes and multiple aura sources produced unusual states that were not obvious from reading individual item properties. |
 | **Submerge / Emerge** | Modified monster skills could make a dueler extremely difficult to target while offensive effects continued. The mechanic was eventually banned in the remembered ladder rules. |
 
-These are recollections and historical reports, not freshly reproduced engine tests. Some mechanisms are supported by old public technical guides; others still need surviving character files or repeatable experiments to establish exactly what happened.
-
 For the individual experiments, numerical details, source distinctions, and related guides, see the **[full historical archive](Open_BattleNet_AMF_LadderHall_Personal_History_Archive.txt)**.
 
 ## Chapter V: What ended it
 
 An unusually powerful character could survive an entire patch of challenges. It couldn't necessarily survive a breach of trust.
 
-We remember a program called **D2spirate** that reportedly allowed the host of a game to copy a joining player's local character file. There were also accounts of hosts quietly changing the conditions of a duel. I can't verify every accusation or attribute every incident, but the larger problem is clear.
+I remember a program called **D2spirate** that allowed the host of a game to steal a joining player's local character file.
 
 A full character save was effectively the source code of your competitive advantage. Whoever acquired it could inspect the exact item properties, hidden combinations, skills, and values that might have taken you months to discover. A thief could duplicate the build, test it privately, or design a counter without doing the original research. Even if the thief never won a match, the secret was no longer yours.
 
-That was why the alleged character-stealing capability of **D2spirate** mattered so much. The dueling system relied on players entering games hosted by others, often with a referee present. If simply joining such a game could expose your entire character, the act required for a legitimate challenge could destroy the advantage you were trying to prove. There was no way to look at an opponent afterward and know whether they had worked out your weakness or quietly copied the answer. It made normal testing dangerous, weakened the meaning of rankings, and made sharing new discoveries harder.
+That was why the character-stealing capability of **D2spirate** mattered so much. The dueling system relied on players entering games hosted by others, often with a referee present. If simply joining such a game could expose your entire character, the act required for a legitimate challenge could destroy the advantage you were trying to prove. There was no way to look at an opponent afterward and know whether they had worked out your weakness or copied the answer. It made normal testing dangerous, weakened the meaning of rankings, and made sharing new discoveries harder.
 
 I can't establish from the surviving material how widespread use of the program was or precisely which individual stole which file. But the risk itself explains why the memory of it has such weight. Losing to someone who outsmarted you was part of the game. Losing the private research that made meaningful competition possible was something else.
 
@@ -198,7 +196,6 @@ The actual character saves are included in this package for historical inspectio
 - [Hexon_FF.d2s](assets/characters/Hexon_FF.d2s)
 - [Hexon_iN.d2s](assets/characters/Hexon_iN.d2s)
 
-The Hexon files are especially interesting because their edited skill and item properties survive in binary form. The longer archive describes what their exports contain, including unusual aura, absorption, and Submerge/Emerge properties. The stored values are evidence of the builds, not proof of exactly how the engine resolved every interaction during a duel.
 
 ## The surviving record
 
