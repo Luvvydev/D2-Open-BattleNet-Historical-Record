@@ -116,6 +116,12 @@ I recently found it mentioned in an old downloads thread on JayOfTerror's forum.
 
 ![JayOfTerror's 2007 Diablo II downloads thread listing D2Kicker](assets/screenshots/JayOfTerror_D2Kicker_2007.webp)
 
+
+The same thread reminded me of something else I loved about Open Battle.net. People released *clones* of powerful characters so others could take them apart, study how they worked, and try to beat them. Jay's list included **WARgod_Clone** for learning how to build and counter 1.09 characters in 1.11, the **Carpathian Clone** to demonstrate Thorns, **Funki Crusher** to defeat Funki PI, and **xXkillerXxNew** to demonstrate the one-hit stun glitch. There were even tools for running two Diablo II clients on one computer so you could test characters against yourself.
+
+The most familiar part was something Jay told a newcomer in June 2007: **“free downloads but knowledge is not free; for that you have to earn it.”** That was the difference between owning an edited character and understanding why it worked. It was also the kind of lesson Adeem had taught me with Snowman.
+
+
 ## Between matches: the war for information
 
 Think of two characters standing in a game lobby. Both look invincible. Both have equipment values that would make no sense in regular Diablo II. One player believes he has found a combination nobody can beat. The other is not necessarily trying to win the duel. He might be testing whether the first character loses life when healing triggers, whether switching from elemental to physical damage changes the outcome, or whether the same setup behaves differently when the joining order changes.
@@ -135,7 +141,7 @@ Here are a few I remember:
 | **Life lock / funky mana** | Particular Energy Shield, Telekinesis, and mana configurations could create apparent near-immunity. The exact values mattered more than the size of the number. |
 | **The mosquito counter** | We experimented with summoning Act III flying monsters to disrupt mana states that ordinary attacks couldn't break. |
 | **Negative resist and absorb** | Some elemental setups could turn incoming attacks into healing, forcing opponents to abandon their usual damage sources. |
-| **Extreme stun and Thorns** | Rapid stun-triggered attacks could kill an opponent and also kill the attacker through reflected damage. Lowering physical damage could be the answer. |
+| **Extreme stun and Thorns** | An old forum moderator described the trigger: **90% chance to cast level 10 Stun on attack and on hit**. That's how I remember the rapid stun attacks being set up. They could kill an opponent but also kill the attacker through reflected Thorns; lowering physical damage could be the answer. |
 | **Aura stacking** | Equipment changes and multiple aura sources produced unusual states that were not obvious from reading individual item properties. |
 | **Submerge / Emerge** | Modified monster skills could make a dueler extremely difficult to target while offensive effects continued. The mechanic was eventually banned in the remembered ladder rules. |
 
