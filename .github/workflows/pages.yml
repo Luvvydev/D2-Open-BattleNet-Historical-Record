@@ -11,6 +11,7 @@ on:
       - '.github/scripts/site_clones.py'
       - '.github/scripts/site_ladder_history.py'
       - '.github/scripts/site_lifelock_debate.py'
+      - '.github/scripts/site_research_debates.py'
       - 'assets/screenshots/JayOfTerror_D2Kicker_2007.webp'
       - 'googlee03cbd9c4060257e.html'
   workflow_dispatch:
@@ -61,6 +62,9 @@ jobs:
 
       - name: Add Life Lock public debate
         run: python3 .github/scripts/site_lifelock_debate.py
+
+      - name: Apply recovered research debates
+        run: python3 .github/scripts/site_research_debates.py
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
